@@ -3,3 +3,5 @@ Hola, has llegado al final del camino.
 Para ayudarte en tu viaje, necesito que me entregues un ticket dorado...
 
 ¿Tenés el ticket dorado?
+
+["dialogoNPC-NO"]
