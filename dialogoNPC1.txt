@@ -4,4 +4,5 @@ Para ayudarte en tu viaje, necesito que me entregues un ticket dorado...
 
 ¿Tenés el ticket dorado?
 
-["dialogoNPC-SI"]
+
+["dialogoNPC-SI"] ["dialogoNPC-NO"]
